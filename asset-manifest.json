@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/listOfCriptosReact/static/css/main.497921cd.css",
+    "main.js": "/listOfCriptosReact/static/js/main.094c2a92.js",
+    "static/js/787.2b6fee5b.chunk.js": "/listOfCriptosReact/static/js/787.2b6fee5b.chunk.js",
+    "index.html": "/listOfCriptosReact/index.html",
+    "main.497921cd.css.map": "/listOfCriptosReact/static/css/main.497921cd.css.map",
+    "main.094c2a92.js.map": "/listOfCriptosReact/static/js/main.094c2a92.js.map",
+    "787.2b6fee5b.chunk.js.map": "/listOfCriptosReact/static/js/787.2b6fee5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497921cd.css",
+    "static/js/main.094c2a92.js"
+  ]
+}
